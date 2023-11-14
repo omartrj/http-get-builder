@@ -1,10 +1,10 @@
 # HTTP Request Builder
 
-A Python application using Tkinter to create and send HTTP requests.
+A Python application using Tkinter to create and send GET requests.
 
 ## Description
 
-This application provides a graphical user interface (GUI) for constructing HTTP requests. Users can input a base URL, add parameters with their respective values, and send the request to receive the server's response.
+This application provides a graphical user interface for constructing simple HTTP GET requests. Users can input a base URL, add parameters with their respective values, and send the request to receive the server's response.
 
 ## Features
 
