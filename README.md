@@ -35,10 +35,10 @@ This application provides a graphical user interface (GUI) for constructing HTTP
 ## Usage
 
 Run the application by executing the the `main.py` file:
-
-    ```bash
-    python main.py
-    ```
+   
+```bash
+python main.py
+```
 
 Once the application window opens:
 
